@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi there! I'm [Ricardo Fabiân]
 
-<!--
-**007Richards/007Richards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Junior Data Science enthusiast passionate about uncovering insights from data. I enjoy building models, analyzing datasets, and exploring the world of AI, machine learning, and NLP.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 About Me
+
+- 🎓 Background in [Science Fisico-Matematicas]
+- 🧪 Currently learning: Machine Learning
+- 🔍 Exploring real-world datasets and Kaggle competitions
+- ✨ Interested in AI for social good, NLP, and automation
+
+---
+
+## 🛠️ Tech Stack
+
+- 📊 **Data Analysis**: Python, Pandas, NumPy, Matplotlib, Seaborn
+- 🧠 **Machine Learning**: Scikit-learn, TensorFlow (beginner)
+- 🗣️ **NLP**: NLTK, HuggingFace (basics)
+- 🧮 **Databases**: SQL (SQL Server, SQLite)
+- 🛠️ **Tools**: Jupyter, Git, GitHub, VSCode
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=007Richards&show_icons=true&theme=radical)
