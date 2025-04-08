@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Ricardo Fabiân]
+# 👋 Hi there! I'm Ricardo Fabian
 
 I'm a Junior Data Science enthusiast passionate about uncovering insights from data. I enjoy building models, analyzing datasets, and exploring the world of AI, machine learning, and NLP.
 
@@ -7,7 +7,7 @@ I'm a Junior Data Science enthusiast passionate about uncovering insights from d
 ## 💼 About Me
 
 - 🎓 Background in [Science Fisico-Matematicas]
-- 🧪 Currently learning: Machine Learning
+- 🧪 Currently learning: Machine Learning, NLP
 - 🔍 Exploring real-world datasets and Kaggle competitions
 - ✨ Interested in AI for social good, NLP, and automation
 
@@ -19,7 +19,7 @@ I'm a Junior Data Science enthusiast passionate about uncovering insights from d
 - 🧠 **Machine Learning**: Scikit-learn, TensorFlow (beginner)
 - 🗣️ **NLP**: NLTK, HuggingFace (basics)
 - 🧮 **Databases**: SQL (SQL Server, SQLite)
-- 🛠️ **Tools**: Jupyter, Git, GitHub, VSCode
+- 🛠️ **Tools**: Jupyter, Git, GitHub, VSCode, PowerBi, Orange
 
 ---
 
