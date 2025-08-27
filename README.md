@@ -1,6 +1,8 @@
 # 👋 Hi there! I'm Ricardo Fabian
 
-I'm a Junior Data Science enthusiast passionate about uncovering insights from data. I enjoy building models, analyzing datasets, and exploring the world of AI, machine learning, and NLP.
+🚀 Data Scientist | Physicist-Mathematician
+
+I am a Data Scientist and Physicist-Mathematician with a strong background in statistics, data analysis, and programming. I have hands-on experience across the entire data lifecycle: from data cleaning and transformation 🧹📊, to visualization and exploratory analysis 📈, and the development of Machine Learning models and Natural Language Processing (NLP) solutions 🤖🗣️.
 
 ---
 
@@ -23,6 +25,15 @@ I'm a Junior Data Science enthusiast passionate about uncovering insights from d
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Tech Stack  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=007Richards&show_icons=true&theme=radical)
+<p align="left">
+  <!-- Lenguajes -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
+
+  <!-- Herramientas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+</p>
